@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flooring</string>
+    <string name="flooring_needed">Flooring Needed:</string>
+    <string name="room_width">Room Width</string>
+    <string name="room_length">Room Length</string>
+    <string name="show_result">Show Result</string>
+</resources>
